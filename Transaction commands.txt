@@ -1,3 +1,10 @@
+Trufle compile
+Truffle develop 
+
+Inside truffle<develop>
+
+migrate --reset
+
 var account_one = "0x627306090abab3a6e1400e9345bc60c78a8bef57";
 var account_two = "0xf17f52151ebef6c7334fad080c5704d77216b732";
 
